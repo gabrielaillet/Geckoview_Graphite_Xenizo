@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7c5cc157.css",
+    "main.js": "./static/js/main.fba8d3e9.js",
+    "static/js/488.3f967381.chunk.js": "./static/js/488.3f967381.chunk.js",
+    "static/media/GentiumPlus-Bold.ttf": "./static/media/GentiumPlus-Bold.8d29b53da33b7dea47ce.ttf",
+    "static/media/GentiumPlus-Regular.ttf": "./static/media/GentiumPlus-Regular.0ed0046973c8120bc24a.ttf",
+    "static/media/Andika-Bold.ttf": "./static/media/Andika-Bold.0c316f44ce1e19321e57.ttf",
+    "static/media/AwamiNastaliq-ExtraBold.ttf": "./static/media/AwamiNastaliq-ExtraBold.379a5f21c9cdb745f9c6.ttf",
+    "static/media/Andika-Regular.ttf": "./static/media/Andika-Regular.2f136f75525c399d97bc.ttf",
+    "static/media/AwamiNastaliq-Bold.ttf": "./static/media/AwamiNastaliq-Bold.fc3941136e62fe47ec80.ttf",
+    "static/media/AwamiNastaliq-SemiBold.ttf": "./static/media/AwamiNastaliq-SemiBold.36b48dd84c665e674220.ttf",
+    "static/media/AwamiNastaliq-Medium.ttf": "./static/media/AwamiNastaliq-Medium.95dc97d134d068cd46d4.ttf",
+    "static/media/AwamiNastaliq-Regular.ttf": "./static/media/AwamiNastaliq-Regular.8d3d730ff830e82de5ae.ttf",
+    "static/media/NotoNaskhArabic-Medium.ttf": "./static/media/NotoNaskhArabic-Medium.1611cc4281f048f968c7.ttf",
+    "static/media/NotoNaskhArabic-SemiBold.ttf": "./static/media/NotoNaskhArabic-SemiBold.e8479140c888e66a9a33.ttf",
+    "static/media/NotoNaskhArabic-Regular.ttf": "./static/media/NotoNaskhArabic-Regular.0a6cf2e63b78febabbc9.ttf",
+    "static/media/NotoNaskhArabic-Bold.ttf": "./static/media/NotoNaskhArabic-Bold.d7a03ed541a715eef9e4.ttf",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.7c5cc157.css.map": "./static/css/main.7c5cc157.css.map",
+    "main.fba8d3e9.js.map": "./static/js/main.fba8d3e9.js.map",
+    "488.3f967381.chunk.js.map": "./static/js/488.3f967381.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5cc157.css",
+    "static/js/main.fba8d3e9.js"
+  ]
+}
