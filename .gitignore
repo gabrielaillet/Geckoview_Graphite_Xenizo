@@ -21,3 +21,5 @@ reactProject/.env.production.local
 reactProject/npm-debug.log*
 reactProject/yarn-debug.log*
 reactProject/yarn-error.log*
+
+androidStudioProject/app/src/main/assets/build
